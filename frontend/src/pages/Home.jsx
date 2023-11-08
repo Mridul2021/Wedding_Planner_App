@@ -53,7 +53,7 @@ const Home = () => {
             Welcome {authState.user.name}
           </h1>
           <h1 className="text-xl font-bold mt-8 mx-8 border-b border-b-gray-300" style={{fontSize:'20px'}}>
-            Crafting Dreams into Unforgettable Moments: Your Perfect Wedding Awaits. Let Us Plan
+            Crafting Dreams into Unforgettable Moments: Your Perfect Wedding Awaits. Let Us Plan
           </h1>
             <Tasks />
           </>
