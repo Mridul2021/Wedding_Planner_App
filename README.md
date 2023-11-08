@@ -161,7 +161,7 @@ Inside backend folder:
 
 - This project
 
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
+  - Github Repo: https://github.com/Mridul2021/Wedding_Planner_App
 
 - Official Docs
 
@@ -188,5 +188,5 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: amridulsrivastava.vit2021@gmail.com
+- Linkedin: https://www.linkedin.com/in/mridul-sri/
