@@ -49,7 +49,7 @@ const Home = () => {
           </div>
         ) : (
           <>
-          <h1 className="text-xl font-bold mt-8 mx-8 border-b border-b-gray-300" style={{fontSize:'40px'}}>
+          <h1 className="text-4xl font-bold">
             Welcome {authState.user.name}
           </h1>
           <h1 className="text-xl font-bold mt-8 mx-8 border-b border-b-gray-300" style={{fontSize:'20px'}}>

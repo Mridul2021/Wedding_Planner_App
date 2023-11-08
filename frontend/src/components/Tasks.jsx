@@ -39,9 +39,9 @@ const Tasks = () => {
           <div>
             {tasks.length === 0 ? (
 
-              <div className='w-[600px] h-[300px] flex items-center justify-center gap-4'>
+              <div className='w-[600px] h-[300px] flex items-center justify-center gap-4' style={{marginLeft:'-40px'}}>
                 <span>No tasks found</span>
-                <Link to="/tasks/add" className="bg-blue-500 text-white hover:bg-blue-600 font-medium rounded-md px-4 py-2">+ Add new task </Link>
+                <Link to="/tasks/add" className="bg-blue-500 text-white hover:bg-blue-600 font-medium rounded-md px-4 py-2" style={{marginLeft:'-10px'}}>+ Add new task </Link>
               </div>
 
             ) : (
