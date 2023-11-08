@@ -53,7 +53,7 @@ const Home = () => {
             Welcome {authState.user.name}
           </h1>
           <h1 className="text-xl font-bold mt-8 mx-8 border-b border-b-gray-300" style={{fontSize:'20px'}}>
-            You can now enter plan your wedding the entering the tasks
+            You can now enter your wedding by the entering the different tasks
           </h1>
             <Tasks />
           </>
