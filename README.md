@@ -1,6 +1,6 @@
 # MERN WEDDING PLANNER APP
 
-A MERN application for basic tasks management.
+A MERN application planning your wedding.
 
 ## Table of Contents
 
