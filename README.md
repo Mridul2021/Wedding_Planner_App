@@ -1,4 +1,4 @@
-# MERN Task Manager
+# MERN WEDDING PLANNER APP
 
 A MERN application for basic tasks management.
 
